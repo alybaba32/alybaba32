@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @alybaba32
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning python
+- 👋 
 
 <!---
 alybaba32/alybaba32 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
